@@ -1,0 +1,4 @@
+controllers\Controlador.class
+views\Vista.class
+com\mycompany\mvcconversormonedas\Conversor.class
+models\Modelo.class
